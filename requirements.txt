@@ -1,1 +1,1 @@
-requests==99.99.99
+requests==2.32.3
