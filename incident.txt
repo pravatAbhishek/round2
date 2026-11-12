@@ -1,0 +1,10 @@
+BUILD INCIDENT
+
+The CI pipeline cannot install the application dependencies.
+
+The dependency installation stage exits with an error.
+
+Testing and application build stages have not executed.
+
+Investigate the changed dependency configuration and restore
+a valid build without removing the required HTTP client.
